@@ -1,4 +1,4 @@
-# Car-Rental-System-Using-C-
+# Car-Rental-System-Using-C++
 This project is designed in C++ programming language, it is based on a concept to maintain a rental company and generating the 
 total charge. Its main features are:-
 • A login page where users can enter their credentials securely and get access to more website feature like booking a 
